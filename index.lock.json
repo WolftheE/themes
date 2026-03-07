@@ -47,8 +47,16 @@
       "locked": "2026-02-23T13:43:36Z",
       "repo": "mukeenanyafiq/spotifont-theme",
       "version": "1.0.0"
+    },
+    {
+      "commit": "6633bb1d1da196db8e37e165a494279679e1995a",
+      "id": "expressive",
+      "integrity": "sha256-d71de1459b6a2bf97f5111ea9169f99d2dfe04cb2dfcc051928a2fb2d1ac6b50",
+      "locked": "2026-03-07T09:48:54Z",
+      "repo": "decipher3114/better-lyrics-expressive",
+      "version": "1.0.0"
     }
   ],
-  "updated": "2026-03-05T21:25:35Z",
+  "updated": "2026-03-07T09:48:54Z",
   "version": 1
 }
