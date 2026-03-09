@@ -49,14 +49,14 @@
       "version": "1.0.0"
     },
     {
-      "commit": "9b17054566466b60db9a6f018b7193f3ab33af33",
+      "commit": "8aa6e54a9356b8994f1a096a9ba22827ff20c050",
       "id": "expressive",
-      "integrity": "sha256-b1fd5533b4d94dcd4d11d94ee1d28bd75fa3a164ccc2e564ebbf4327224744cd",
-      "locked": "2026-03-09T17:58:30Z",
+      "integrity": "sha256-66b04912683b9d7f1b3902b3787cc49dfa501f2cd515bc210e13f5b4371a1900",
+      "locked": "2026-03-09T18:05:08Z",
       "repo": "decipher3114/better-lyrics-expressive",
-      "version": "1.0.1"
+      "version": "1.0.2"
     }
   ],
-  "updated": "2026-03-09T17:58:30Z",
+  "updated": "2026-03-09T18:05:08Z",
   "version": 1
 }
